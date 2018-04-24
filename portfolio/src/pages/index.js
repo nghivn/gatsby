@@ -6,7 +6,7 @@ const IndexPage = () => (
   <div className="text-center">
     <img src={Chilling} className="block mx-auto w-1/2" />
     <h2 className="bg-yellow inline-block my-8 p-3">
-      Hey there! Welcome to your first Gatsby site.
+      Hey there! I&#39;m Nghi.
     </h2>
     <p className="leading-loose">
       This is a barebones starter for Gatsby styled using{" "}
