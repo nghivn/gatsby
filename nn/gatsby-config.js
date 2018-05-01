@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Nghi Nhan',
+    title: 'Gatsby Default Starter',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass'
   ],
-};
+}
